@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Car.png</Source>
+      <Name>Car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Car.xnb</Output>
+      <Time>2010-11-09T19:49:22.5155161-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Car2.png</Source>
+      <Name>Car2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Car2.xnb</Output>
+      <Time>2010-11-09T19:49:22.6515238-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Track.png</Source>
+      <Name>Track</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Track.xnb</Output>
+      <Time>2010-11-09T19:49:26.4557414-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TrackOverlay.png</Source>
+      <Name>TrackOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\TrackOverlay.xnb</Output>
+      <Time>2010-11-09T19:49:27.1287799-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Meta.png</Source>
+      <Name>Meta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Meta.xnb</Output>
+      <Time>2010-11-09T19:49:24.9036527-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuPrincipal.png</Source>
+      <Name>menuPrincipal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuPrincipal.xnb</Output>
+      <Time>2010-11-09T19:49:24.7036412-06:00</Time>
+    </Item>
+    <Item>
+      <Source>precioneEnter.png</Source>
+      <Name>precioneEnter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEnter.xnb</Output>
+      <Time>2010-11-09T19:49:26.0617189-06:00</Time>
+    </Item>
+    <Item>
+      <Source>precioneEnter2.png</Source>
+      <Name>precioneEnter2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEnter2.xnb</Output>
+      <Time>2010-11-09T19:49:26.097721-06:00</Time>
+    </Item>
+    <Item>
+      <Source>controles.png</Source>
+      <Name>controles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\controles.xnb</Output>
+      <Time>2010-11-09T19:49:22.9365401-06:00</Time>
+    </Item>
+    <Item>
+      <Source>controlesMando.png</Source>
+      <Name>controlesMando</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\controlesMando.xnb</Output>
+      <Time>2010-11-09T19:49:22.9735423-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2010-11-09T19:49:24.0676048-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuP.png</Source>
+      <Name>menuP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuP.xnb</Output>
+      <Time>2010-11-09T19:49:24.0986066-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuPause.png</Source>
+      <Name>menuPause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuPause.xnb</Output>
+      <Time>2010-11-09T19:49:24.209613-06:00</Time>
+    </Item>
+    <Item>
+      <Source>regresar.png</Source>
+      <Name>regresar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\regresar.xnb</Output>
+      <Time>2010-11-09T19:49:26.202727-06:00</Time>
+    </Item>
+    <Item>
+      <Source>reiniciar.png</Source>
+      <Name>reiniciar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\reiniciar.xnb</Output>
+      <Time>2010-11-09T19:49:26.2337287-06:00</Time>
+    </Item>
+    <Item>
+      <Source>restaurar.png</Source>
+      <Name>restaurar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\restaurar.xnb</Output>
+      <Time>2010-11-09T19:49:26.2647305-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSeleccion.png</Source>
+      <Name>menuSeleccion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuSeleccion.xnb</Output>
+      <Time>2010-11-09T19:49:24.8726509-06:00</Time>
+    </Item>
+    <Item>
+      <Source>jugadores.png</Source>
+      <Name>jugadores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\jugadores.xnb</Output>
+      <Time>2010-11-09T19:49:24.0376031-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cero_mini.png</Source>
+      <Name>cero_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cero_mini.xnb</Output>
+      <Time>2010-11-09T19:49:22.7005266-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cinco_mini.png</Source>
+      <Name>cinco_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cinco_mini.xnb</Output>
+      <Time>2010-11-09T19:49:22.7855315-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cuatro_mini.png</Source>
+      <Name>cuatro_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cuatro_mini.xnb</Output>
+      <Time>2010-11-09T19:49:23.0135445-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dos_mini.png</Source>
+      <Name>dos_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\dos_mini.xnb</Output>
+      <Time>2010-11-09T19:49:23.0425462-06:00</Time>
+    </Item>
+    <Item>
+      <Source>nueve_mini.png</Source>
+      <Name>nueve_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\nueve_mini.xnb</Output>
+      <Time>2010-11-09T19:49:24.9676563-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ocho_mini.png</Source>
+      <Name>ocho_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\ocho_mini.xnb</Output>
+      <Time>2010-11-09T19:49:24.997658-06:00</Time>
+    </Item>
+    <Item>
+      <Source>porcentaje.png</Source>
+      <Name>porcentaje</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\porcentaje.xnb</Output>
+      <Time>2010-11-09T19:49:26.0257168-06:00</Time>
+    </Item>
+    <Item>
+      <Source>seis_mini.png</Source>
+      <Name>seis_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\seis_mini.xnb</Output>
+      <Time>2010-11-09T19:49:26.2927321-06:00</Time>
+    </Item>
+    <Item>
+      <Source>siete_mini.png</Source>
+      <Name>siete_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\siete_mini.xnb</Output>
+      <Time>2010-11-09T19:49:26.3197337-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tres_mini.png</Source>
+      <Name>tres_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\tres_mini.xnb</Output>
+      <Time>2010-11-09T19:49:28.4708567-06:00</Time>
+    </Item>
+    <Item>
+      <Source>uno_mini.png</Source>
+      <Name>uno_mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\uno_mini.xnb</Output>
+      <Time>2010-11-09T19:49:28.4988583-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ganador.png</Source>
+      <Name>ganador</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\ganador.xnb</Output>
+      <Time>2010-11-09T19:49:24.0016011-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player1G.png</Source>
+      <Name>player1G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\player1G.xnb</Output>
+      <Time>2010-11-09T19:49:25.9617132-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player2G.png</Source>
+      <Name>player2G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\player2G.xnb</Output>
+      <Time>2010-11-09T19:49:25.9977152-06:00</Time>
+    </Item>
+    <Item>
+      <Source>precioneEspacio.png</Source>
+      <Name>precioneEspacio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEspacio.xnb</Output>
+      <Time>2010-11-09T19:49:26.1347231-06:00</Time>
+    </Item>
+    <Item>
+      <Source>precioneEspacio2.png</Source>
+      <Name>precioneEspacio2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEspacio2.xnb</Output>
+      <Time>2010-11-09T19:49:26.1717252-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Track2.png</Source>
+      <Name>Track2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Track2.xnb</Output>
+      <Time>2010-11-09T19:49:26.728757-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TrackOverlay2.png</Source>
+      <Name>TrackOverlay2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\TrackOverlay2.xnb</Output>
+      <Time>2010-11-09T19:49:28.4438551-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pistas.png</Source>
+      <Name>pistas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\pistas.xnb</Output>
+      <Time>2010-11-09T19:49:25.9207108-06:00</Time>
+    </Item>
+    <Item>
+      <Source>carro.wav</Source>
+      <Name>carro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\carro.xnb</Output>
+      <Time>2009-11-29T22:55:57-06:00</Time>
+    </Item>
+    <Item>
+      <Source>carro2.wav</Source>
+      <Name>carro2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\carro2.xnb</Output>
+      <Time>2009-11-30T00:21:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>click.wav</Source>
+      <Name>click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\click.xnb</Output>
+      <Time>2006-12-09T02:08:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Game.wav</Source>
+      <Name>Game</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Game.xnb</Output>
+      <Time>2006-12-09T02:08:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>victoria.wav</Source>
+      <Name>victoria</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\victoria.xnb</Output>
+      <Time>2009-02-28T12:12:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuPr.wav</Source>
+      <Name>MenuPr</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\MenuPr.xnb</Output>
+      <Time>2006-12-09T02:08:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pared.wav</Source>
+      <Name>pared</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\pared.xnb</Output>
+      <Time>2009-11-30T00:46:02-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-05T13:09:06.8539441-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\Content\obj\x86\Debug\audio.xml
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\Content\obj\x86\Debug\audio.xml
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\Content\obj\x86\Debug\audio.xml

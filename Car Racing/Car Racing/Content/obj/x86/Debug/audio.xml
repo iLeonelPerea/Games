@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 3690148910;
+    PC Bank Last Modified High = 30044552;
+    Bank Last Revised Low = 3596717322;
+    Bank Last Revised High = 30044552;
+
+    Wave
+    {
+        Name = MenuPr;
+        File = MenuPr.wav;
+        Build Settings Last Modified Low = 1238180055;
+        Build Settings Last Modified High = 30044542;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 18531260;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1051135488;
+            Last Modified High = 29825897;
+        }
+    }
+
+    Wave
+    {
+        Name = click;
+        File = click.wav;
+        Build Settings Last Modified Low = 2574948476;
+        Build Settings Last Modified High = 30044536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 12504;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1051135488;
+            Last Modified High = 29825897;
+        }
+    }
+
+    Wave
+    {
+        Name = Game;
+        File = Game.wav;
+        Build Settings Last Modified Low = 2574958477;
+        Build Settings Last Modified High = 30044536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 30101948;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1051135488;
+            Last Modified High = 29825897;
+        }
+    }
+
+    Wave
+    {
+        Name = victoria;
+        File = victoria.wav;
+        Build Settings Last Modified Low = 332734663;
+        Build Settings Last Modified High = 30044542;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 29376952;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 770982912;
+            Last Modified High = 29989328;
+        }
+    }
+
+    Wave
+    {
+        Name = carro;
+        File = carro.wav;
+        Build Settings Last Modified Low = 3728613806;
+        Build Settings Last Modified High = 30044537;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 4126760;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1738529975;
+            Last Modified High = 30044537;
+        }
+    }
+
+    Wave
+    {
+        Name = carro2;
+        File = carro2.wav;
+        Build Settings Last Modified Low = 3939737395;
+        Build Settings Last Modified High = 30044537;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 4126760;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1590876071;
+            Last Modified High = 30044549;
+        }
+    }
+
+    Wave
+    {
+        Name = pared;
+        File = pared.wav;
+        Build Settings Last Modified Low = 3526856134;
+        Build Settings Last Modified High = 30044552;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 23376;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3364843380;
+            Last Modified High = 30044552;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

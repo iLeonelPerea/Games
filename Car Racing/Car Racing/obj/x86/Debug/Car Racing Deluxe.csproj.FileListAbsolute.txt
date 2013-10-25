@@ -1,0 +1,159 @@
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Car.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Car2.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Track.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\TrackOverlay.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Car Racing Deluxe.exe
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Car Racing Deluxe.pdb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\obj\x86\Debug\Car Racing Deluxe.exe
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\obj\x86\Debug\Car Racing Deluxe.pdb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Meta.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\menuPrincipal.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\precioneEnter.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\precioneEnter2.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\controles.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\controlesMando.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\menu.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\menuP.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\menuPause.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\regresar.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\reiniciar.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\restaurar.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\menuSeleccion.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\jugadores.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\cero_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\cinco_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\cuatro_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\dos_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\nueve_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\ocho_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\porcentaje.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\seis_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\siete_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\tres_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\uno_mini.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\ganador.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\player1G.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\player2G.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\precioneEspacio.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\precioneEspacio2.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\audio.xgs
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\carro.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\carro2.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\click.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Game.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\victoria.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\MenuPr.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\pared.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\Track2.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\TrackOverlay2.xnb
+D:\Xna\Car Racing Deluxe\Car Racing Deluxe\bin\x86\Debug\Content\pistas.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Car.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Car2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Track.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\TrackOverlay.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Meta.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuPrincipal.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEnter.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEnter2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\controles.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\controlesMando.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menu.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuP.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuPause.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\regresar.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\reiniciar.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\restaurar.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuSeleccion.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\jugadores.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cero_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cinco_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cuatro_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\dos_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\nueve_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\ocho_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\porcentaje.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\seis_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\siete_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\tres_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\uno_mini.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\ganador.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\player1G.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\player2G.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEspacio.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEspacio2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Track2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\TrackOverlay2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\pistas.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\carro.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\carro2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\click.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Game.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\victoria.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\MenuPr.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\pared.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\audio.xgs
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Car Racing Deluxe.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Car Racing Deluxe.pdb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\Car Racing Deluxe.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\Car Racing Deluxe.pdb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Car.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Car2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Track.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\TrackOverlay.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Meta.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuPrincipal.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEnter.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEnter2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\controles.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\controlesMando.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menu.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuP.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuPause.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\regresar.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\reiniciar.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\restaurar.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\menuSeleccion.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\jugadores.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cero_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cinco_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\cuatro_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\dos_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\nueve_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\ocho_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\porcentaje.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\seis_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\siete_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\tres_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\uno_mini.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\ganador.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\player1G.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\player2G.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEspacio.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\precioneEspacio2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Track2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\TrackOverlay2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\pistas.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\carro.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\carro2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\click.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Game.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\victoria.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\MenuPr.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\pared.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\audio.xgs
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Car Racing Deluxe.exe
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\bin\x86\Debug\Car Racing Deluxe.pdb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\Car Racing Deluxe.exe
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00367043 - Leonel\Car Racing\obj\x86\Debug\Car Racing Deluxe.pdb
