@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\fin.png</Source>
+      <Name>Sprites\fin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\fin.xnb</Output>
+      <Time>2010-04-04T14:57:50.1363999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\inicio.png</Source>
+      <Name>Sprites\inicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\inicio.xnb</Output>
+      <Time>2010-04-04T14:57:50.1704018-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\reversa.png</Source>
+      <Name>Sprites\reversa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\reversa.xnb</Output>
+      <Time>2010-04-16T11:11:40.9689262-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\imgScore.png</Source>
+      <Name>Sprites\imgScore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\imgScore.xnb</Output>
+      <Time>2010-04-05T09:40:19.9739683-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\inicioCrece.png</Source>
+      <Name>Sprites\inicioCrece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\inicioCrece.xnb</Output>
+      <Time>2010-04-05T09:12:01.707833-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\barraEntera.png</Source>
+      <Name>Sprites\barraEntera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\barraEntera.xnb</Output>
+      <Time>2010-04-06T23:34:42.7664677-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\imgFondo.png</Source>
+      <Name>Sprites\imgFondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\imgFondo.xnb</Output>
+      <Time>2010-04-05T09:34:23.5425816-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\instrucciones.png</Source>
+      <Name>Sprites\instrucciones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\instrucciones.xnb</Output>
+      <Time>2010-04-18T03:01:45.7378879-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ring.png</Source>
+      <Name>Sprites\ring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\ring.xnb</Output>
+      <Time>2010-04-06T21:26:41.1751058-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mundo.png</Source>
+      <Name>Sprites\mundo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\mundo.xnb</Output>
+      <Time>2010-04-16T11:18:40.5839268-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\abajo.png</Source>
+      <Name>Sprites\abajo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\abajo.xnb</Output>
+      <Time>2010-04-16T11:16:39.7100132-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\abajoder.png</Source>
+      <Name>Sprites\abajoder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\abajoder.xnb</Output>
+      <Time>2010-04-16T11:17:22.2004435-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\abajoizq.png</Source>
+      <Name>Sprites\abajoizq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\abajoizq.xnb</Output>
+      <Time>2010-04-16T11:17:42.6876153-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\arriba.png</Source>
+      <Name>Sprites\arriba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\arriba.xnb</Output>
+      <Time>2010-04-16T11:17:53.2562198-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\arribader.png</Source>
+      <Name>Sprites\arribader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\arribader.xnb</Output>
+      <Time>2010-04-16T11:18:06.9730044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\arribaizq.png</Source>
+      <Name>Sprites\arribaizq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\arribaizq.xnb</Output>
+      <Time>2010-04-16T11:18:18.9656903-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\derecha.png</Source>
+      <Name>Sprites\derecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\derecha.xnb</Output>
+      <Time>2010-04-16T11:43:31.6071909-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\izquierda.png</Source>
+      <Name>Sprites\izquierda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\izquierda.xnb</Output>
+      <Time>2010-04-16T11:18:48.263366-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vacio.png</Source>
+      <Name>Sprites\vacio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\vacio.xnb</Output>
+      <Time>2010-04-13T13:47:19.9184714-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\plus100.png</Source>
+      <Name>Sprites\plus100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\plus100.xnb</Output>
+      <Time>2010-04-13T13:27:26.0211844-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\nextLevel.png</Source>
+      <Name>Sprites\nextLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\nextLevel.xnb</Output>
+      <Time>2010-04-14T18:11:25.6342843-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\btnContinuar.png</Source>
+      <Name>Sprites\btnContinuar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\btnContinuar.xnb</Output>
+      <Time>2010-04-14T18:21:50.9830522-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\punteroLink.png</Source>
+      <Name>Sprites\punteroLink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\punteroLink.xnb</Output>
+      <Time>2010-04-14T18:56:27.9358471-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\punteroNormal.png</Source>
+      <Name>Sprites\punteroNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\punteroNormal.xnb</Output>
+      <Time>2010-04-14T18:57:19.3607884-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bar.png</Source>
+      <Name>Sprites\bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\bar.xnb</Output>
+      <Time>2010-04-13T13:32:23.8692204-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion.png</Source>
+      <Name>Sprites\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\explosion.xnb</Output>
+      <Time>2010-04-17T11:34:33.3060069-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smoke.bmp</Source>
+      <Name>Sprites\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\smoke.xnb</Output>
+      <Time>2010-04-17T11:34:33.3500094-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\azul.png</Source>
+      <Name>Sprites\azul</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\azul.xnb</Output>
+      <Time>2010-04-17T13:51:44.1797859-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\esfera.png</Source>
+      <Name>Sprites\esfera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\esfera.xnb</Output>
+      <Time>2010-04-17T13:52:25.7371629-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rojo.png</Source>
+      <Name>Sprites\rojo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\rojo.xnb</Output>
+      <Time>2010-04-17T13:51:55.3674258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\barraSuperior.png</Source>
+      <Name>Sprites\barraSuperior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\barraSuperior.xnb</Output>
+      <Time>2010-04-18T00:04:26.4913948-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vidas.png</Source>
+      <Name>Sprites\vidas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\vidas.xnb</Output>
+      <Time>2010-04-17T14:44:13.0998939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\1up.png</Source>
+      <Name>Sprites\1up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\1up.xnb</Output>
+      <Time>2010-04-16T11:06:44.584974-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\clock.png</Source>
+      <Name>Sprites\clock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\clock.xnb</Output>
+      <Time>2010-04-16T11:10:11.9708358-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\shrinker.png</Source>
+      <Name>Sprites\shrinker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\shrinker.xnb</Output>
+      <Time>2010-04-17T15:38:11.7021313-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\plusTime.png</Source>
+      <Name>Sprites\plusTime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\plusTime.xnb</Output>
+      <Time>2010-04-18T01:41:51.8856953-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fuente.spritefont</Source>
+      <Name>fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\fuente.xnb</Output>
+      <Time>2010-04-17T23:55:07.9864502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>seleccionado.spritefont</Source>
+      <Name>seleccionado</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\seleccionado.xnb</Output>
+      <Time>2010-04-17T23:55:11.3676436-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-28T23:55:04.4821943-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

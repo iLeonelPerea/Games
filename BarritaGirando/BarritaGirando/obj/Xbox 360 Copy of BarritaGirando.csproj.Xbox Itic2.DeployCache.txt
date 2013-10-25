@@ -1,0 +1,123 @@
+02725ae1a53845b5b4e6752eda512c8c
+0
+Xbox Itic2
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\
+129175134680000000
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\GameThumbnail.png
+2010-05-05T06:17:03.4655562Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\BarritaGirando.exe
+2010-05-03T23:39:35.9406820Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\scores.txt
+2010-04-23T15:41:29.5039066Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen1.txt
+2010-04-26T16:16:49.6691718Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen10.txt
+2010-04-18T07:44:23.0892518Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen11.txt
+2010-04-18T07:44:46.4865901Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen12.txt
+2010-04-18T07:41:23.7339933Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen13.txt
+2010-04-18T07:44:57.1932025Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen14.txt
+2010-04-18T07:45:07.4667901Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen15.txt
+2010-04-18T07:45:13.7421490Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen2.txt
+2010-04-23T15:20:48.7169376Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen3.txt
+2010-04-18T05:17:08.3799724Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen4.txt
+2010-04-18T07:43:28.3041183Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen5.txt
+2010-04-23T15:23:01.6955435Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen6.txt
+2010-04-23T15:24:21.0180805Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen7.txt
+2010-04-23T15:29:35.6640772Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen8.txt
+2010-04-23T15:37:38.7857102Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\screen9.txt
+2010-04-18T07:34:58.8839812Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\barrita.xgs
+2010-04-26T16:11:12.5698908Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\fuente.xnb
+2010-04-26T16:11:09.7547298Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\seleccionado.xnb
+2010-04-26T16:11:10.8537927Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sound Bank.xsb
+2010-04-26T16:11:12.9869147Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Wave Bank.xwb
+2010-04-26T16:11:12.9809143Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\1up.xnb
+2010-04-26T16:11:07.9246251Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\abajo.xnb
+2010-04-26T16:10:58.5730903Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\abajoder.xnb
+2010-04-26T16:10:58.9861139Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\abajoizq.xnb
+2010-04-26T16:10:59.2691301Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\arriba.xnb
+2010-04-26T16:10:59.4771420Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\arribader.xnb
+2010-04-26T16:10:59.6321508Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\arribaizq.xnb
+2010-04-26T16:10:59.8331623Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\azul.xnb
+2010-04-26T16:11:06.8085613Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\bar.xnb
+2010-04-26T16:11:05.0544610Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\barraEntera.xnb
+2010-04-26T16:10:51.5586891Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\barraSuperior.xnb
+2010-04-26T16:11:07.6196077Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\btnContinuar.xnb
+2010-04-26T16:11:04.5554324Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\clock.xnb
+2010-04-26T16:11:08.1036354Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\derecha.xnb
+2010-04-26T16:11:00.0451745Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\esfera.xnb
+2010-04-26T16:11:07.1075784Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\explosion.xnb
+2010-04-26T16:11:05.4964862Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\fin.xnb
+2010-04-26T16:10:46.6164064Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\imgFondo.xnb
+2010-04-26T16:10:54.4778560Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\imgScore.xnb
+2010-04-26T16:10:50.1226069Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\inicio.xnb
+2010-04-26T16:10:46.7444137Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\inicioCrece.xnb
+2010-04-26T16:10:51.4076804Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\instrucciones.xnb
+2010-04-26T16:10:57.7210415Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\izquierda.xnb
+2010-04-26T16:11:00.3311908Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\mundo.xnb
+2010-04-26T16:10:58.1940686Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\nextLevel.xnb
+2010-04-26T16:11:04.3634214Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\plus100.xnb
+2010-04-26T16:11:00.7692159Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\plusTime.xnb
+2010-04-26T16:11:08.4606558Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\punteroLink.xnb
+2010-04-26T16:11:04.7264422Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\punteroNormal.xnb
+2010-04-26T16:11:04.9034523Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\reversa.xnb
+2010-04-26T16:10:46.9484254Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\ring.xnb
+2010-04-26T16:10:57.9400540Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\rojo.xnb
+2010-04-26T16:11:07.2475864Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\shrinker.xnb
+2010-04-26T16:11:08.2836457Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\smoke.xnb
+2010-04-26T16:11:06.6215506Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\vacio.xnb
+2010-04-26T16:11:00.6282078Z
+C:\Users\ISAAC\Documents\ITIC\6o Semestre\Videojuegos 2\Juegos Finales\BarritaGirando\BarritaGirando\BarritaGirando\bin\Xbox 360\Debug\Content\Sprites\vidas.xnb
+2010-04-26T16:11:07.7616158Z

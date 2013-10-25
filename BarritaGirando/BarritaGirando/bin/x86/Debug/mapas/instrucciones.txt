@@ -1,0 +1,18 @@
+9	' ' = ESPACIO; 
+9	'*' = BARRA;
+0	'-' = ARRIBA;
+1	'_' = ABAJO;
+2	'[' = IZQUIERDA;
+3	']' = DERECHA;
+7	'=' = ABAJODER;
+6	'L' = ABAJOIZQ;
+5	'>' = ARRIBADER;
+4	'<' = ARRIBAIZQ;
+8	'@' = DONA;
+9	'/' = VACIO;
+	'F' = FINAL;
+	'R' = REVERSA;
+	'1' = VIDA EXTRA;
+	's' = SLOW;
+	'p' = PEQUEÑO;
+	',' = BARRA ENEMIGA;
