@@ -1,0 +1,36 @@
+Content\blank.xnb
+Content\gradient.xnb
+Content\Sprites\background.xnb
+Content\Sprites\cannon.xnb
+Content\Sprites\enemy.xnb
+Content\Sprites\blastnya_bg.xnb
+Content\Sprites\blastnya_bg2.xnb
+Content\Sprites\blastnya_ground.xnb
+Content\Sprites\blastnya_map.xnb
+Content\Sprites\blastnya_sky.xnb
+Content\Sprites\cursor_pointer.xnb
+Content\Sprites\explosion.xnb
+Content\Sprites\shield.xnb
+Content\Sprites\shieldzap.xnb
+Content\Sprites\smalljet.xnb
+Content\Sprites\smoke.xnb
+Content\Sprites\smoke2.xnb
+Content\Sprites\tank.xnb
+Content\Sprites\statusbar.xnb
+Content\Sprites\tankicon.xnb
+Content\Sprites\Jefe\copterblades.xnb
+Content\Sprites\Jefe\launcher.xnb
+Content\Sprites\Jefe\turret.xnb
+Content\Sprites\Jefe\hugecopter.xnb
+Content\Sprites\sanddust.xnb
+Content\Sprites\bombfrag.xnb
+Content\Sprites\Jefe\rocket.xnb
+Content\Sprites\Jefe\orb.xnb
+Content\background.xnb
+Content\Sprites\smalljet2.xnb
+Content\gamefont.xnb
+Content\menufont.xnb
+Content\fuente.xnb
+Content\sonidos.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

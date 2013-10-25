@@ -1,0 +1,125 @@
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\pruebaPantallas.exe
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\pruebaPantallas.pdb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\obj\x86\Debug\pruebaPantallas.exe
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\obj\x86\Debug\pruebaPantallas.pdb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\background.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\blank.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gradient.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\menufont.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cannon.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\enemy.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg2.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_ground.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_map.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_sky.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cursor_pointer.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\explosion.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shield.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shieldzap.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke2.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tank.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\fuente.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\sonidos.xgs
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\statusbar.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tankicon.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\copterblades.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\hugecopter.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\launcher.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\turret.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\sanddust.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\bombfrag.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\rocket.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\orb.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\background.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\blank.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gradient.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cannon.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\enemy.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg2.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_ground.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_map.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_sky.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cursor_pointer.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\explosion.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shield.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shieldzap.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke2.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tank.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\statusbar.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tankicon.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\copterblades.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\launcher.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\turret.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\hugecopter.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\sanddust.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\bombfrag.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\rocket.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\orb.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\menufont.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\fuente.xnb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\sonidos.xgs
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\pruebaPantallas.exe
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\pruebaPantallas.pdb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\pruebaPantallas.exe
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\pruebaPantallas.pdb
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\blank.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gradient.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\background.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cannon.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\enemy.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_ground.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_map.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_sky.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cursor_pointer.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\explosion.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shield.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shieldzap.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tank.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\statusbar.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tankicon.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\copterblades.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\launcher.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\turret.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\hugecopter.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\sanddust.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\bombfrag.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\rocket.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\orb.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\background.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gamefont.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\menufont.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\fuente.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\sonidos.xgs
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\pruebaPantallas.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\pruebaPantallas.pdb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\pruebaPantallas.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\obj\x86\Debug\pruebaPantallas.pdb

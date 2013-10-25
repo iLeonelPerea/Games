@@ -1,0 +1,6 @@
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\Examenes\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\sonidos.xml
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ISAAC\Documents\ITIC\5o Semestre\Videojuegos I\C#\Juego Final\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\sonidos.xml
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\sonidos.xml

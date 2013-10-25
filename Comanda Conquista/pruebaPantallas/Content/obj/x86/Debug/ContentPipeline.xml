@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2009-11-14T23:52:56.1404339-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2009-11-14T23:52:56.1474343-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\background.tga</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2009-11-14T23:56:29.319627-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannon.tga</Source>
+      <Name>Sprites\cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cannon.xnb</Output>
+      <Time>2009-11-14T23:56:29.3506288-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy.tga</Source>
+      <Name>Sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\enemy.xnb</Output>
+      <Time>2009-11-14T23:56:29.3586293-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blastnya_bg.png</Source>
+      <Name>Sprites\blastnya_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg.xnb</Output>
+      <Time>2009-11-14T23:56:29.3246273-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blastnya_bg2.png</Source>
+      <Name>Sprites\blastnya_bg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_bg2.xnb</Output>
+      <Time>2009-11-14T23:56:29.3276275-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blastnya_ground.png</Source>
+      <Name>Sprites\blastnya_ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_ground.xnb</Output>
+      <Time>2009-11-14T23:56:29.3396282-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blastnya_map.png</Source>
+      <Name>Sprites\blastnya_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_map.xnb</Output>
+      <Time>2009-11-15T11:36:13.3098577-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blastnya_sky.png</Source>
+      <Name>Sprites\blastnya_sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\blastnya_sky.xnb</Output>
+      <Time>2009-11-14T23:56:29.3486287-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cursor_pointer.png</Source>
+      <Name>Sprites\cursor_pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\cursor_pointer.xnb</Output>
+      <Time>2009-11-15T03:11:59.2316119-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion.png</Source>
+      <Name>Sprites\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\explosion.xnb</Output>
+      <Time>2009-11-20T11:54:09.848378-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\shield.png</Source>
+      <Name>Sprites\shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shield.xnb</Output>
+      <Time>2009-11-14T23:56:29.3636296-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\shieldzap.png</Source>
+      <Name>Sprites\shieldzap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\shieldzap.xnb</Output>
+      <Time>2009-11-14T23:56:29.3666297-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smalljet.png</Source>
+      <Name>Sprites\smalljet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet.xnb</Output>
+      <Time>2009-11-14T23:56:29.3696299-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smoke.png</Source>
+      <Name>Sprites\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke.xnb</Output>
+      <Time>2009-11-14T23:56:29.3726301-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smoke2.bmp</Source>
+      <Name>Sprites\smoke2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smoke2.xnb</Output>
+      <Time>2009-11-14T23:56:29.3786304-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tank.png</Source>
+      <Name>Sprites\tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tank.xnb</Output>
+      <Time>2009-11-14T23:56:29.3806305-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\statusbar.png</Source>
+      <Name>Sprites\statusbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\statusbar.xnb</Output>
+      <Time>2004-09-08T12:04:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tankicon.png</Source>
+      <Name>Sprites\tankicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\tankicon.xnb</Output>
+      <Time>2004-03-08T19:11:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jefe\copterblades.png</Source>
+      <Name>Sprites\Jefe\copterblades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\copterblades.xnb</Output>
+      <Time>2003-11-21T22:16:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jefe\launcher.png</Source>
+      <Name>Sprites\Jefe\launcher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\launcher.xnb</Output>
+      <Time>2003-11-21T22:16:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jefe\turret.png</Source>
+      <Name>Sprites\Jefe\turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\turret.xnb</Output>
+      <Time>2003-11-21T22:16:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jefe\hugecopter.png</Source>
+      <Name>Sprites\Jefe\hugecopter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\hugecopter.xnb</Output>
+      <Time>2009-11-15T11:47:43.4523316-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\sanddust.png</Source>
+      <Name>Sprites\sanddust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\sanddust.xnb</Output>
+      <Time>2004-07-16T09:50:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bombfrag.png</Source>
+      <Name>Sprites\bombfrag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\bombfrag.xnb</Output>
+      <Time>2004-03-08T19:11:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jefe\rocket.png</Source>
+      <Name>Sprites\Jefe\rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\rocket.xnb</Output>
+      <Time>2004-06-19T11:19:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jefe\orb.png</Source>
+      <Name>Sprites\Jefe\orb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\Jefe\orb.xnb</Output>
+      <Time>2009-11-15T15:08:08.8841469-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2009-11-15T16:44:56.9983521-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smalljet2.png</Source>
+      <Name>Sprites\smalljet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\Sprites\smalljet2.xnb</Output>
+      <Time>2009-11-16T14:20:56.9438707-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2009-11-16T01:15:53.8824277-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2009-11-16T01:15:32.3221946-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fuente.spritefont</Source>
+      <Name>fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\fuente.xnb</Output>
+      <Time>2009-11-15T02:22:17.6890774-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366045 - Isaac\366045\Juego Final\pruebaPantallas\pruebaPantallas\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-15T08:18:21.0936492-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
