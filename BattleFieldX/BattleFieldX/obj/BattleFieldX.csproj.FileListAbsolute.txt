@@ -1,0 +1,54 @@
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\obj\x86\Debug\BattleFieldX.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\ArialNormal.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\ArialSeleccionada.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\esfera.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondo.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\BattleFieldX.exe
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\BattleFieldX.pdb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\obj\x86\Debug\BattleFieldX.exe
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\obj\x86\Debug\BattleFieldX.pdb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondog.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondoJuego.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueD.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueL.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueR.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueU.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Balas.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Cursor.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Block.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\castle1.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\gameover.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Gana.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\sonido.xgs
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Arial.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\ArialNormal.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\ArialSeleccionada.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\esfera.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondo.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondog.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondoJuego.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueD.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueL.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueR.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueU.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Balas.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Cursor.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Block.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\gameover.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Gana.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\castle1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\sonido.xgs
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\BattleFieldX.exe
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\BattleFieldX.pdb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\obj\x86\Debug\BattleFieldX.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\obj\x86\Debug\BattleFieldX.exe
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\obj\x86\Debug\BattleFieldX.pdb

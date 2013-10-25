@@ -1,0 +1,53 @@
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\Arial.xnb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\esfera.xnb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\fondo.xnb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\goku.xnb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\Goku.xgs
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\GokuReloaded.exe
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\GokuReloaded.pdb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\obj\x86\Debug\GokuReloaded.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\obj\x86\Debug\GokuReloaded.exe
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\obj\x86\Debug\GokuReloaded.pdb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\kamehouse.xnb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\ArialNormal.xnb
+D:\Visual Studio 2005\Projects\GokuReloaded\GokuReloaded\bin\x86\Debug\Content\ArialSeleccionada.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Arial.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\ArialNormal.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\ArialSeleccionada.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\esfera.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\fondo.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\goku.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\kamehouse.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\fondo2.xnb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Goku.xgs
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Wave Bank.xwb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Sound Bank.xsb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\GokuReloaded.exe
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\GokuReloaded.pdb
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\GokuReloaded.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\GokuReloaded.exe
+D:\tec de monterrey\septimo semestre\ANIMACION\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\GokuReloaded.pdb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\ArialNormal.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\ArialSeleccionada.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\esfera.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\fondo.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\goku.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\kamehouse.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\fondo2.xnb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Goku.xgs
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\GokuReloaded.exe
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\bin\x86\Debug\GokuReloaded.pdb
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\GokuReloaded.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\GokuReloaded.exe
+C:\Documents and Settings\Pedro\Mis documentos\Visual Studio 2005\Projects\Programas de Clase\Juego con Escenas\GokuReloaded - 3\GokuReloaded\obj\x86\Debug\GokuReloaded.pdb

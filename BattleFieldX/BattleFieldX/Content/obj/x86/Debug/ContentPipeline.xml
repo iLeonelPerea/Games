@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2008-11-07T09:45:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialNormal.spritefont</Source>
+      <Name>ArialNormal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\ArialNormal.xnb</Output>
+      <Time>2008-11-19T09:07:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialSeleccionada.spritefont</Source>
+      <Name>ArialSeleccionada</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\ArialSeleccionada.xnb</Output>
+      <Time>2008-11-19T09:07:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>esfera.png</Source>
+      <Name>esfera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\esfera.xnb</Output>
+      <Time>2008-11-05T09:21:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondo.png</Source>
+      <Name>fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondo.xnb</Output>
+      <Time>2008-11-04T20:24:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondog.jpg</Source>
+      <Name>fondog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondog.xnb</Output>
+      <Time>2008-12-07T15:27:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoJuego.jpg</Source>
+      <Name>fondoJuego</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\fondoJuego.xnb</Output>
+      <Time>2008-12-07T15:37:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tanqueD.png</Source>
+      <Name>tanqueD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueD.xnb</Output>
+      <Time>2008-12-07T17:46:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tanqueL.png</Source>
+      <Name>tanqueL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueL.xnb</Output>
+      <Time>2008-12-07T17:46:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tanqueR.png</Source>
+      <Name>tanqueR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueR.xnb</Output>
+      <Time>2008-12-07T17:46:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tanqueU.png</Source>
+      <Name>tanqueU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\tanqueU.xnb</Output>
+      <Time>2008-12-07T17:46:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Balas.png</Source>
+      <Name>Balas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Balas.xnb</Output>
+      <Time>2008-12-07T19:54:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Cursor.png</Source>
+      <Name>Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Time>2008-12-07T21:17:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Block.png</Source>
+      <Name>Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Block.xnb</Output>
+      <Time>2008-12-08T01:29:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2008-12-08T15:27:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Gana.png</Source>
+      <Name>Gana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\Gana.xnb</Output>
+      <Time>2008-12-08T15:27:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>castle1.png</Source>
+      <Name>castle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\castle1.xnb</Output>
+      <Time>2008-12-08T17:05:56-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-15T08:18:20.2245995-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BattleFieldX">
+</Property><Property Name="Solution File" Value="D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX.sln">
+</Property><Property Name="User Options File" Value="D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX.suo">
+</Property><Property Name="Date" Value="lunes, 26 de octubre de 2009">
+</Property><Property Name="Time" Value="09:31 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BattleFieldX.sln" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BattleFieldX.suo" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX.suo">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Project file successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\BattleFieldX.csproj">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\AudioComponent.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\AudioComponent.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Balas.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Balas.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BalasEnemy.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\BalasEnemy.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Core\Escena.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Core\Escena.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Core\Menu.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Core\Menu.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\CursorX.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\CursorX.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\enemigos.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\enemigos.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\EscenaAccion.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\EscenaAccion.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\EscenaIntro.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\EscenaIntro.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Gano.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Gano.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Instrucciones.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Instrucciones.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Murio.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Murio.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Pausa.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Pausa.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Program.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Program.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Game1.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Game1.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\tanque.cs" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\tanque.cs">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\Game.ico" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\Game.ico">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\GameThumbnail.png" Description="File successfully backed up as D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\Backup\BattleFieldX\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BattleFieldX.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BattleFieldX.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BattleFieldX" Source="BattleFieldX\BattleFieldX.csproj" Description="Upgraded XNA Framework references to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="Content" Source="sonido.xgs" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Sound Bank.xsb" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Wave Bank.xwb" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Arial.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ArialNormal.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ArialSeleccionada.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Balas.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="battle.xap" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Block.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="castle1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Cursor.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="esfera.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fondo.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fondog.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fondoJuego.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gameover.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Gana.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gokuInicio.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="poing.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Sin título-3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="sonido.xap" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="tanqueD.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="tanqueL.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="tanqueR.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="tanqueU.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event></UpgradeLog>

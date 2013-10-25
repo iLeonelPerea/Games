@@ -1,0 +1,20 @@
+Content\Arial.xnb
+Content\ArialNormal.xnb
+Content\ArialSeleccionada.xnb
+Content\esfera.xnb
+Content\fondo.xnb
+Content\fondog.xnb
+Content\fondoJuego.xnb
+Content\tanqueD.xnb
+Content\tanqueL.xnb
+Content\tanqueR.xnb
+Content\tanqueU.xnb
+Content\Balas.xnb
+Content\Cursor.xnb
+Content\Block.xnb
+Content\gameover.xnb
+Content\Gana.xnb
+Content\castle1.xnb
+Content\sonido.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

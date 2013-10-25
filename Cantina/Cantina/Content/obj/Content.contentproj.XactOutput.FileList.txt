@@ -1,0 +1,3 @@
+Content\SonidosCantina.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

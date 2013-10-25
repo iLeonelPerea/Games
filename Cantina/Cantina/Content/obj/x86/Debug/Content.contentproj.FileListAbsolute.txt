@@ -1,0 +1,4 @@
+C:\Users\alemangui\Documents\ITIC\1 Programacion Para el Diseño\Ejercicios\Visual\Cantina\Cantina\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alemangui\Documents\ITIC\1 Programacion Para el Diseño\Ejercicios\Visual\Cantina\Cantina\Content\obj\x86\Debug\SonidosCantina.xml
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00363585 - Mantecón\Cantina\Cantina\Cantina\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00363585 - Mantecón\Cantina\Cantina\Cantina\Content\obj\x86\Debug\SonidosCantina.xml
