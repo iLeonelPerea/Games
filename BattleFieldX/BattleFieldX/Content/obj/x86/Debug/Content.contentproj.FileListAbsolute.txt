@@ -1,2 +1,0 @@
-D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\BattleFieldX\BattleFieldX\Content\obj\x86\Debug\sonido.xml
