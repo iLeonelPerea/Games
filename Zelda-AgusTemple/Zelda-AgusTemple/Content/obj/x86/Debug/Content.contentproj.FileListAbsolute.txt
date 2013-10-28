@@ -1,0 +1,2 @@
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Link\Camina_abajo1.png</Source>
+      <Name>Link\Camina_abajo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Camina_abajo1.xnb</Output>
+      <Time>2008-11-22T22:14:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\Camina_abajo2.png</Source>
+      <Name>Link\Camina_abajo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Camina_abajo2.xnb</Output>
+      <Time>2008-11-22T22:14:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\CaminaArriba1.png</Source>
+      <Name>Link\CaminaArriba1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaArriba1.xnb</Output>
+      <Time>2008-11-22T23:34:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\CaminaArriba2.png</Source>
+      <Name>Link\CaminaArriba2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaArriba2.xnb</Output>
+      <Time>2008-11-22T23:34:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\CaminaDer1.png</Source>
+      <Name>Link\CaminaDer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaDer1.xnb</Output>
+      <Time>2008-11-22T23:35:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\CaminaDer2.png</Source>
+      <Name>Link\CaminaDer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaDer2.xnb</Output>
+      <Time>2008-11-22T23:36:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\CaminaIzq1.png</Source>
+      <Name>Link\CaminaIzq1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaIzq1.xnb</Output>
+      <Time>2008-11-22T23:35:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\CaminaIzq2.png</Source>
+      <Name>Link\CaminaIzq2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaIzq2.xnb</Output>
+      <Time>2008-11-22T23:35:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\EspadaAbajo.png</Source>
+      <Name>Link\EspadaAbajo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaAbajo.xnb</Output>
+      <Time>2008-11-23T00:24:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\EspadaArriba.png</Source>
+      <Name>Link\EspadaArriba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaArriba.xnb</Output>
+      <Time>2008-11-23T15:05:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\EspadaDer.png</Source>
+      <Name>Link\EspadaDer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaDer.xnb</Output>
+      <Time>2008-11-23T15:01:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\EspadaIzq.png</Source>
+      <Name>Link\EspadaIzq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaIzq.xnb</Output>
+      <Time>2008-11-23T15:04:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Espada\left.png</Source>
+      <Name>Espada\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Espada\left.xnb</Output>
+      <Time>2008-11-23T15:14:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Trap\Trap.png</Source>
+      <Name>Enemigos\Trap\Trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Trap\Trap.xnb</Output>
+      <Time>2008-11-23T17:13:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2008-11-25T19:42:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\Vida1.png</Source>
+      <Name>Link\Vida1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida1.xnb</Output>
+      <Time>2008-11-25T19:58:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\Vida2.png</Source>
+      <Name>Link\Vida2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida2.xnb</Output>
+      <Time>2008-11-25T19:59:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\Vida3.png</Source>
+      <Name>Link\Vida3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida3.xnb</Output>
+      <Time>2008-11-25T20:00:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Tektike\Tektike1.png</Source>
+      <Name>Enemigos\Tektike\Tektike1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Tektike\Tektike1.xnb</Output>
+      <Time>2008-11-26T13:03:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Tektike\Tektike2.png</Source>
+      <Name>Enemigos\Tektike\Tektike2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Tektike\Tektike2.xnb</Output>
+      <Time>2008-11-26T13:04:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Keese\Keese1.png</Source>
+      <Name>Enemigos\Keese\Keese1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Keese\Keese1.xnb</Output>
+      <Time>2008-11-26T13:55:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Keese\Keese2.png</Source>
+      <Name>Enemigos\Keese\Keese2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Keese\Keese2.xnb</Output>
+      <Time>2008-11-26T13:55:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>zelda_wall.jpg</Source>
+      <Name>zelda_wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\zelda_wall.xnb</Output>
+      <Time>2008-12-01T15:16:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv1.png</Source>
+      <Name>Fondos\niv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv1.xnb</Output>
+      <Time>2008-12-07T22:42:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv2.png</Source>
+      <Name>Fondos\niv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv2.xnb</Output>
+      <Time>2008-12-07T22:41:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv3.png</Source>
+      <Name>Fondos\niv3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv3.xnb</Output>
+      <Time>2008-12-07T22:42:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Objetos\switch.png</Source>
+      <Name>Objetos\switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\switch.xnb</Output>
+      <Time>2008-12-01T18:26:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Objetos\keys.png</Source>
+      <Name>Objetos\keys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\keys.xnb</Output>
+      <Time>2008-12-01T20:16:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Objetos\key.png</Source>
+      <Name>Objetos\key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\key.xnb</Output>
+      <Time>2008-12-01T20:15:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Link\Encontro.png</Source>
+      <Name>Link\Encontro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Encontro.xnb</Output>
+      <Time>2008-12-01T20:45:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Objetos\puerta.png</Source>
+      <Name>Objetos\puerta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\puerta.xnb</Output>
+      <Time>2008-12-01T21:19:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv4.png</Source>
+      <Name>Fondos\niv4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv4.xnb</Output>
+      <Time>2008-12-07T22:44:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv5.png</Source>
+      <Name>Fondos\niv5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv5.xnb</Output>
+      <Time>2008-12-07T22:45:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv6.png</Source>
+      <Name>Fondos\niv6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv6.xnb</Output>
+      <Time>2008-12-07T22:59:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv7.png</Source>
+      <Name>Fondos\niv7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv7.xnb</Output>
+      <Time>2008-12-07T19:41:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondos\niv8.png</Source>
+      <Name>Fondos\niv8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv8.xnb</Output>
+      <Time>2008-12-07T19:43:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Gohma\Gohma1.png</Source>
+      <Name>Enemigos\Gohma\Gohma1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Gohma\Gohma1.xnb</Output>
+      <Time>2008-12-07T22:01:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\Gohma\Gohma2.png</Source>
+      <Name>Enemigos\Gohma\Gohma2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Gohma\Gohma2.xnb</Output>
+      <Time>2008-12-07T22:01:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyboard.png</Source>
+      <Name>Keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Keyboard.xnb</Output>
+      <Time>2008-11-23T21:56:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backspace.png</Source>
+      <Name>Backspace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Backspace.xnb</Output>
+      <Time>2008-11-23T21:18:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enter.png</Source>
+      <Name>Enter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enter.xnb</Output>
+      <Time>2008-11-23T21:09:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2008-11-07T09:45:22-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-15T08:18:20.2245995-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

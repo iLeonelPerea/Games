@@ -1,0 +1,8 @@
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\Content\obj\x86\Debug\AudioZuma.xml
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\Content\obj\x86\Debug\AudioZuma.xml
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\Content\obj\x86\Debug\AudioZuma.xml
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\Content\obj\x86\Debug\AudioZuma.xml

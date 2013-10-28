@@ -1,0 +1,12 @@
+Agrega a la siguiente posicion			
+
+			listaBalas.RemoveAt(c);
+                        c--;
+                        bala.posVector = bola.posVector;
+                        listaCamino.Insert(i+1, bala);
+                        numBolas++;
+                        for (int r = i+1; r < listaCamino.Count; r++)
+                        {
+                            GameObject b = listaCamino[r];
+                            b.posVector -= 40;    
+                        }

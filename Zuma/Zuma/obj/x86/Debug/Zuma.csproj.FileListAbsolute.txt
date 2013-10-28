@@ -1,0 +1,96 @@
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\bola.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\camino.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\nivel1.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\rana.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\rana2.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\salida.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\FuenteArial.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Zuma.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Zuma.pdb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\obj\x86\Debug\Zuma.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\obj\x86\Debug\Zuma.pdb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\cursor1.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\bolaVerde.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\song.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\song.wma
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\AudioZuma.xgs
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\pausa.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\barraZuma.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma\Zuma\bin\x86\Debug\Content\ganaste.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\bola.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\nivel1.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\rana.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\rana2.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\salida.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\camino.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\cursor1.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\bolaVerde.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\pausa.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\barraZuma.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\ganaste.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\FuenteArial.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\song.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\song.wma
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\AudioZuma.xgs
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Zuma.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\bin\x86\Debug\Zuma.pdb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\obj\x86\Debug\Zuma.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Zuma_evaidea\Zuma\obj\x86\Debug\Zuma.pdb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\bola.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\nivel1.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\rana.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\rana2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\salida.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\camino.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\cursor1.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\bolaVerde.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\pausa.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\barraZuma.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\gameOver.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\ganaste.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\FuenteArial.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\song.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\song.wma
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\AudioZuma.xgs
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Zuma.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Zuma.pdb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\Zuma.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\Zuma.pdb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\bola.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\nivel1.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\rana.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\rana2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\salida.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\camino.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\cursor1.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\bolaVerde.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\pausa.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\barraZuma.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\gameOver.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\ganaste.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\FuenteArial.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\song.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\song.wma
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\AudioZuma.xgs
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Zuma.exe
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Zuma.pdb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\Zuma.exe
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\obj\x86\Debug\Zuma.pdb

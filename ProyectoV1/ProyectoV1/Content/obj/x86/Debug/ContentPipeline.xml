@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tetris.png</Source>
+      <Name>tetris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\tetris.xnb</Output>
+      <Time>2010-11-09T19:49:07.3326477-06:00</Time>
+    </Item>
+    <Item>
+      <Source>forest.jpg</Source>
+      <Name>forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\forest.xnb</Output>
+      <Time>2010-11-09T19:49:04.9455111-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoT.png</Source>
+      <Name>fondoT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoT.xnb</Output>
+      <Time>2010-11-09T19:49:04.6724955-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Titulo.png</Source>
+      <Name>Titulo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Titulo.xnb</Output>
+      <Time>2010-11-09T19:49:07.3776502-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoNext.png</Source>
+      <Name>fondoNext</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoNext.xnb</Output>
+      <Time>2010-11-09T19:49:04.3034744-06:00</Time>
+    </Item>
+    <Item>
+      <Source>puntaje.png</Source>
+      <Name>puntaje</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\puntaje.xnb</Output>
+      <Time>2010-11-09T19:49:07.1076348-06:00</Time>
+    </Item>
+    <Item>
+      <Source>siguiente.png</Source>
+      <Name>siguiente</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\siguiente.xnb</Output>
+      <Time>2010-11-09T19:49:07.1486371-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoScore.png</Source>
+      <Name>fondoScore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoScore.xnb</Output>
+      <Time>2010-11-09T19:49:04.418481-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Lineas.png</Source>
+      <Name>Lineas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Lineas.xnb</Output>
+      <Time>2010-11-09T19:49:05.0845191-06:00</Time>
+    </Item>
+    <Item>
+      <Source>nivel.png</Source>
+      <Name>nivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\nivel.xnb</Output>
+      <Time>2010-11-09T19:49:05.5995485-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoMenu.jpg</Source>
+      <Name>fondoMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoMenu.xnb</Output>
+      <Time>2010-11-09T19:49:04.139465-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuItem1.png</Source>
+      <Name>menuItem1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem1.xnb</Output>
+      <Time>2010-11-09T19:49:05.1415223-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuItem2.png</Source>
+      <Name>menuItem2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem2.xnb</Output>
+      <Time>2010-11-09T19:49:05.3315332-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuItem3.png</Source>
+      <Name>menuItem3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem3.xnb</Output>
+      <Time>2010-11-09T19:49:05.3915366-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuItem4.png</Source>
+      <Name>menuItem4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem4.xnb</Output>
+      <Time>2010-11-09T19:49:05.5495457-06:00</Time>
+    </Item>
+    <Item>
+      <Source>mystery.mp3</Source>
+      <Name>mystery</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.xnb</Output>
+      <Extra>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.wma</Extra>
+      <Time>2009-11-24T19:20:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Intro.mp3</Source>
+      <Name>Intro</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.xnb</Output>
+      <Extra>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.wma</Extra>
+      <Time>2009-11-29T17:24:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fuente.spritefont</Source>
+      <Name>fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fuente.xnb</Output>
+      <Time>2009-11-28T14:09:12-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-05T13:09:06.8539441-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bola.png</Source>
+      <Name>bola</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\bola.xnb</Output>
+      <Time>2010-11-09T19:49:07.6256644-06:00</Time>
+    </Item>
+    <Item>
+      <Source>nivel1.png</Source>
+      <Name>nivel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\nivel1.xnb</Output>
+      <Time>2010-11-09T19:49:09.0127437-06:00</Time>
+    </Item>
+    <Item>
+      <Source>rana.png</Source>
+      <Name>rana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\rana.xnb</Output>
+      <Time>2010-11-09T19:49:09.1097493-06:00</Time>
+    </Item>
+    <Item>
+      <Source>rana2.png</Source>
+      <Name>rana2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\rana2.xnb</Output>
+      <Time>2010-11-09T19:49:09.1527518-06:00</Time>
+    </Item>
+    <Item>
+      <Source>salida.png</Source>
+      <Name>salida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\salida.xnb</Output>
+      <Time>2010-11-09T19:49:09.2007545-06:00</Time>
+    </Item>
+    <Item>
+      <Source>camino.png</Source>
+      <Name>camino</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\camino.xnb</Output>
+      <Time>2010-11-09T19:49:07.7686726-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor1.png</Source>
+      <Name>cursor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\cursor1.xnb</Output>
+      <Time>2010-11-09T19:49:07.8056747-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bolaVerde.png</Source>
+      <Name>bolaVerde</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\bolaVerde.xnb</Output>
+      <Time>2010-11-09T19:49:07.6806676-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pausa.png</Source>
+      <Name>pausa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\pausa.xnb</Output>
+      <Time>2010-11-09T19:49:09.0657468-06:00</Time>
+    </Item>
+    <Item>
+      <Source>barraZuma.png</Source>
+      <Name>barraZuma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\barraZuma.xnb</Output>
+      <Time>2010-11-09T19:49:07.5196583-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOver.png</Source>
+      <Name>gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\gameOver.xnb</Output>
+      <Time>2010-11-09T19:49:08.0196869-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ganaste.png</Source>
+      <Name>ganaste</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\ganaste.xnb</Output>
+      <Time>2010-11-09T19:49:08.0706899-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FuenteArial.spritefont</Source>
+      <Name>FuenteArial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\FuenteArial.xnb</Output>
+      <Time>2009-11-28T02:47:17.8714979-06:00</Time>
+    </Item>
+    <Item>
+      <Source>song.mp3</Source>
+      <Name>song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\song.xnb</Output>
+      <Extra>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\song.wma</Extra>
+      <Time>2010-11-09T19:10:59.4783186-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366222 - Raúl\A00366222_Zuma_juegoXNA\Zuma\Zuma\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-05T13:09:06.8539441-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

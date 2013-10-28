@@ -1,0 +1,8 @@
+Figuras:
+1.- L
+2.- L invertida
+3.- S
+4.- S inverida
+5.- T
+6.- Palo
+7.- cuadrosd

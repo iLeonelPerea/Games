@@ -1,0 +1,96 @@
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Zelda-AgusTemple.exe
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Zelda-AgusTemple.pdb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\Zelda-AgusTemple.exe
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\Zelda-AgusTemple.pdb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Camina_abajo1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Camina_abajo2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaArriba1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaArriba2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaDer1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaDer2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaIzq1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaIzq2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaAbajo.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaArriba.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaDer.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaIzq.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Espada\left.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Trap\Trap.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\back.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida3.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Tektike\Tektike1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Tektike\Tektike2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Keese\Keese1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Keese\Keese2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\zelda_wall.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv3.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\switch.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\keys.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\key.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Encontro.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\puerta.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv4.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv5.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv6.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv7.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv8.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Gohma\Gohma1.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Gohma\Gohma2.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Keyboard.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Backspace.xnb
+C:\Documents and Settings\Agus\Mis documentos\Visual Studio 2008\Projects\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enter.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Camina_abajo1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Camina_abajo2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaArriba1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaArriba2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaDer1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaDer2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaIzq1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\CaminaIzq2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaAbajo.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaArriba.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaDer.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\EspadaIzq.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Espada\left.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Trap\Trap.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\back.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Vida3.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Tektike\Tektike1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Tektike\Tektike2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Keese\Keese1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Keese\Keese2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\zelda_wall.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv3.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\switch.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\keys.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\key.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Link\Encontro.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Objetos\puerta.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv4.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv5.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv6.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv7.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Fondos\niv8.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Gohma\Gohma1.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enemigos\Gohma\Gohma2.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Keyboard.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Backspace.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Enter.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Content\Arial.xnb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Zelda-AgusTemple.exe
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\bin\x86\Debug\Zelda-AgusTemple.pdb
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\Zelda-AgusTemple.exe
+D:\Importantec\profesional\09 - Ago_Dic_08\02 - Programación para el diseño\08 - Proyectos\01 - C#\Agustin\Zelda-AgusTemple\Zelda-AgusTemple\obj\x86\Debug\Zelda-AgusTemple.pdb

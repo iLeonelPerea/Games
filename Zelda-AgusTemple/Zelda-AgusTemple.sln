@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zelda-AgusTemple", "Zelda-AgusTemple\Zelda-AgusTemple.csproj", "{43032799-3324-4469-8541-3242F6A01A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43032799-3324-4469-8541-3242F6A01A0E}.Debug|x86.ActiveCfg = Debug|x86
+		{43032799-3324-4469-8541-3242F6A01A0E}.Debug|x86.Build.0 = Debug|x86
+		{43032799-3324-4469-8541-3242F6A01A0E}.Release|x86.ActiveCfg = Release|x86
+		{43032799-3324-4469-8541-3242F6A01A0E}.Release|x86.Build.0 = Release|x86
+		{2E0CAD20-DC24-4B3F-8498-B03018BA4543}.Debug|x86.ActiveCfg = Debug|x86
+		{2E0CAD20-DC24-4B3F-8498-B03018BA4543}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

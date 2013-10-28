@@ -1,0 +1,3 @@
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\Content\obj\x86\Debug\ResolveAssemblyReference.cache

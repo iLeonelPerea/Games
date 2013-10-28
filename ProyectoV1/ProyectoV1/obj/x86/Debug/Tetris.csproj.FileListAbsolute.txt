@@ -1,0 +1,78 @@
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\tetris.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\forest.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoT.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Titulo.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoNext.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\puntaje.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\siguiente.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fuente.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoScore.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Lineas.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\nivel.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoMenu.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem1.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem2.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem3.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem4.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.wma
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.wma
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\ProyectoV1.exe
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\bin\x86\Debug\ProyectoV1.pdb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\obj\x86\Debug\ProyectoV1.exe
+C:\Users\Gonzalez\Documents\Visual Studio 2008\Projects\JOSE\ProyectoV1\ProyectoV1\obj\x86\Debug\ProyectoV1.pdb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\tetris.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\forest.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoT.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Titulo.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoNext.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\puntaje.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\siguiente.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoScore.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Lineas.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\nivel.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoMenu.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem1.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem2.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem3.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem4.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fuente.xnb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.wma
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.wma
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\ProyectoV1.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\ProyectoV1.pdb
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\ProyectoV1.exe
+D:\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\ProyectoV1.pdb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\tetris.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\forest.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoT.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Titulo.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoNext.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\puntaje.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\siguiente.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoScore.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Lineas.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\nivel.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fondoMenu.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem1.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem2.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem3.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\menuItem4.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\fuente.xnb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\mystery.wma
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\Content\Intro.wma
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\ProyectoV1.exe
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\bin\x86\Debug\ProyectoV1.pdb
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\ProyectoV1.exe
+D:\Documents\Importantec\profesional\11 - Ago-Dic_09\02 - Programación para el diseño\07 - Proyectos\02 - XNA\A00366221 - José\ProyectoV1\ProyectoV1\obj\x86\Debug\ProyectoV1.pdb

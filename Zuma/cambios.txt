@@ -1,0 +1,13 @@
+Despues de destruirBolas
+	hacer que se regresen las bolas cuando la anterior es del mismo color
+	hacer destruccion de bolas cuando haya mas de 3 del mismo color
+	poner alpha al destruir
+
+Scores
+	terminar el juego con ciertos puntos
+	
+Empezar con 30 bolas
+
+Al terminar que se las coma la calavera
+
+

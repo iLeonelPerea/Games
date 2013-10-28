@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 2258625435;
+    PC Bank Last Modified High = 30044630;
+    Bank Last Revised Low = 2221029369;
+    Bank Last Revised High = 30044630;
+
+    Wave
+    {
+        Name = choque;
+        File = efectos\choque.wav;
+        Build Settings Last Modified Low = 2174541287;
+        Build Settings Last Modified High = 30044630;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 16000;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 3652;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 341593884;
+            Last Modified High = 30044505;
+        }
+    }
+
+    Wave
+    {
+        Name = destruir;
+        File = efectos\destruir.wav;
+        Build Settings Last Modified Low = 2174541287;
+        Build Settings Last Modified High = 30044630;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 105984;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3259992444;
+            Last Modified High = 30044504;
+        }
+    }
+
+    Wave
+    {
+        Name = disparo;
+        File = efectos\disparo.wav;
+        Build Settings Last Modified Low = 2174541287;
+        Build Settings Last Modified High = 30044630;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 87552;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3810003903;
+            Last Modified High = 30044504;
+        }
+    }
+
+    Wave
+    {
+        Name = inicio2;
+        File = efectos\inicio2.wav;
+        Build Settings Last Modified Low = 2174541287;
+        Build Settings Last Modified High = 30044630;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 924084;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 384689797;
+            Last Modified High = 30044509;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
